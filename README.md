@@ -16,5 +16,5 @@
 ![box](https://github.com/darknetworm/Linux_Lesson_01/assets/82410807/62664c47-31f2-4a32-a1ff-5e361ae845e3)  
 Запускаем создание виртуальной машины с помощью vagrant, использующую созданный образ и, подключившись по ssh, проверяем версию ядра виртуальной машины.  
 ![kernel_new](https://github.com/darknetworm/Linux_Lesson_01/assets/82410807/553aa84b-25d5-43de-8049-e4bbeed44421)  
-После проведения всех проверок загружаем созданный образ в Vagrant cloud, используя личную учетную запись.
-[centos8-kernel6]([https://app.vagrantup.com/darknetworm/boxes/centos8-kernel6)https://app.vagrantup.com/darknetworm/boxes/centos8-kernel6])
+После проведения всех проверок загружаем созданный образ в Vagrant cloud, используя личную учетную запись.  
+[centos8-kernel6](https://app.vagrantup.com/darknetworm/boxes/centos8-kernel6)
